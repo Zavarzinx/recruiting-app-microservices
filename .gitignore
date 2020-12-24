@@ -55,3 +55,15 @@ build/
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+/api-gateway-service/.mvn/
+/config-server/.mvn/
+/config-server/mvnw
+/config-server/mvnw.cmd
+/api-gateway-service/mvnw
+/api-gateway-service/mvnw.cmd
+/discovery-service/.mvn/
+/discovery-service/mvnw
+/discovery-service/mvnw.cmd
+/resume-service/.mvn/
+/resume-service/mvnw
+/resume-service/mvnw.cmd
